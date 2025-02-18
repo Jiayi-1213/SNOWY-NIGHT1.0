@@ -62,7 +62,15 @@ body {
   .snow-text.distant {
     font-size: 40px; /* 默认大小 */
   }
-  
+
+@font-face {
+    font-family: 'Kapakana'; 
+    src: url('kapakana_regular.woff2') format('woff2'),
+         url('kapakana_regular.woff') format('woff'),
+         url('kapakana_regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
   /* 悬停时变大并发光 */
   .snow-text.distant:hover {
     font-size: 50px; /* 变大 */
