@@ -68,6 +68,15 @@ body {
   font-family: 'Kapakana', sans-serif;  
 }
 
+@font-face {
+    font-family: 'Kapakana'; 
+    src: url('kapakana_regular.woff2') format('woff2'),
+         url('kapakana_regular.woff') format('woff'),
+         url('kapakana_regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
 * {
   cursor: none;
 }
