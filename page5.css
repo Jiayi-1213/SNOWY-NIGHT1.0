@@ -183,6 +183,15 @@ filter: saturate(1.0);
   .snow-text.Snowy {
     font-size: 45px; /* 默认大小 */
   }
+
+@font-face {
+    font-family: 'Kapakana'; 
+    src: url('kapakana_regular.woff2') format('woff2'),
+         url('kapakana_regular.woff') format('woff'),
+         url('kapakana_regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
   
   /* 悬停时变大并发光 */
   .snow-text.Snowy:hover {
