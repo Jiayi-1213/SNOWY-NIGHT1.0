@@ -45,7 +45,7 @@ document.addEventListener("DOMContentLoaded", function () {
 // Add event listener for clicking the "Snowy Night" title
 document.getElementById("snowyTitle").addEventListener("click", function() {
     // Replace with the URL you want to navigate to
-    window.location.href = "file:///Users/jyoti/Desktop/SNOWY%20NIGHT/page1/page1.html"; // This will redirect to a new website
+    window.location.href = "page1.html"; // This will redirect to a new website
 });
 document.addEventListener('DOMContentLoaded', function() {
     // 创建自定义光标
