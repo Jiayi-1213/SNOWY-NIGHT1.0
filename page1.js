@@ -103,7 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
     // Add an event listener to it
     couldntTellText.addEventListener('click', function() {
         // Redirect to a new URL when clicked
-        window.location.href = "file:///Users/jyoti/Desktop/SNOWY%20NIGHT/page2/page2.html";  // Change this URL to the destination you want
+        window.location.href = "page2.html";  // Change this URL to the destination you want
     });
 });
 document.addEventListener('DOMContentLoaded', function() {

@@ -105,7 +105,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const couldntTellText = document.querySelector('.world ');
     
     couldntTellText.addEventListener('click', function() {
-        window.location.href = "file:///Users/jyoti/Desktop/SNOWY%20NIGHT/page5/page5.html";  // Update the path
+        window.location.href = "page5.html";  // Update the path
     });
 });
 document.addEventListener('DOMContentLoaded', function() {

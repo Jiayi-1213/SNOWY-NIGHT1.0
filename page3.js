@@ -103,7 +103,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const couldntTellText = document.querySelector('.darktrees');
     
     couldntTellText.addEventListener('click', function() {
-        window.location.href = "file:///Users/jyoti/Desktop/SNOWY%20NIGHT/page4/page4.html";  // Update the path
+        window.location.href = "page4.html";  // Update the path
     });
 });
 document.addEventListener('DOMContentLoaded', function() {
