@@ -44,9 +44,9 @@ body {
 
 @font-face {
     font-family: 'Kapakana'; 
-    src: url('fonts/kapakana_regular.woff2') format('woff2'),
-         url('fonts/kapakana_regular.woff') format('woff'),
-         url('fonts/kapakana_regular.ttf') format('truetype');
+    src: url('kapakana_regular.woff2') format('woff2'),
+         url('kapakana_regular.woff') format('woff'),
+         url('kapakana_regular.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
 }
