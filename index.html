@@ -20,8 +20,16 @@
         </div>
         <hr class="white-line">
         <h1 class="title" id="snowyTitle">Snowy Night</h1>
-        </a>
-        
+        <audio id="bg-music" loop>
+  <source src="file:///Users/jyoti/Desktop/Metro%20Plaza%209.m4a" type="audio/mpeg">
+</audio>
+
+<script>
+  document.addEventListener("click", function () {
+    document.getElementById("bg-music").play();
+  }, { once: true }); 
+</script>
+
         </div>
     </div>
 </body> 
